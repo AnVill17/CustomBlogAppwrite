@@ -9,7 +9,7 @@ import service from '../../appwrite/config'
 function LogoutBtn() {
     const dispatch=useDispatch()
     const logoutHandler=()=>{
-        authServices.logoutUser()
+        service.logoutUser()
         .then(()=>dispatch(logout()))
     }
   return (<button
