@@ -1,3 +1,13 @@
+Entire Social Media platform deployed at versel.
+Include CRUD operations on users profile
+Redux , to save user and save multi calls , everytime to check the user.
+React hook forms for btter handling of login and posts
+3rd party plugins to add the text software.
+Idea inspired from chai code react series.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
